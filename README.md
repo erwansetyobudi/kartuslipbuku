@@ -33,3 +33,8 @@ Plugin ini didistribusikan di bawah lisensi open-source sesuai dengan aturan yan
 ---
 Jika Anda memiliki saran atau ingin berkontribusi, silakan buat issue atau pull request di repository ini. Terima kasih!
 
+## Tampilan
+![kartu buku](https://github.com/user-attachments/assets/f1c0563f-65da-4b49-afb4-555df6dc1970)
+![slipbuku](https://github.com/user-attachments/assets/0a51c39e-0603-4b85-8d40-8a43d521fff1)
+
+
